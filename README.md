@@ -1,8 +1,1 @@
-# Bohboo Gift React App
-
-This is a ready-to-deploy Vite + React project.
-
-## Deploy on Vercel
-1. Upload to GitHub
-2. Connect repo to Vercel
-3. Click Deploy
+Bohboo Gift is a proof-of-concept decentralized gifting application built on Solana devnet. It allows users to create and send digital gifts—such as tokens, NFTs, or custom messages—directly on the blockchain. Key functions include connecting a Solana wallet, selecting or minting a gift item, specifying a recipient address, and executing a low-cost transfer with on-chain confirmation. The app demonstrates seamless peer-to-peer gifting with transparency, immutability, and minimal fees. As a Vercel-hosted frontend integrated with Solana’s devnet, it showcases real-time transaction handling, wallet authentication, and a simple UI for testing blockchain-based gift economies without mainnet costs. Ideal for developers exploring Solana dApps.
